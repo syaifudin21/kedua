@@ -1,0 +1,2 @@
+# kedua
+belajra kedua
